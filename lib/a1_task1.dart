@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 void main() {
   runApp(const A1Task1());
@@ -37,4 +38,3 @@ class A1Task1 extends StatelessWidget {
     )
     );
   }
-}
